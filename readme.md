@@ -1,4 +1,4 @@
-# Pair Project
+# Pair project
 
 # Functional requirements
 
@@ -43,10 +43,11 @@ Implement your solution to the recurring rainfall problem as a working Java prog
 
 # Grading (total 5)
 
-- 2 submission exists
-- 0.5 correct average calculation for one or more inputs
-- 0.5 empty output (rather than NaN or error) for empty input
-- 0.5 detect EOF (rather than specific sentinel value) following Scanner-based idiom
-- 0.5 input can have zero or more double values on each line
-- 0.5 good coding style (indentation, use of final everywhere except when a variable has to be updated one or more times)
-- 0.5 meaningful reflection (one or more sentences per item) in separate readme file
+- 1 correct calculation of required stats for one or more input values, ignoring negative values
+- 0.3 empty output (rather than NaN or other error) for empty input
+- 0.3 detect EOF (rather than specific sentinel value) following Scanner-based idiom
+- 0.3 input can have zero or more double values on each line
+- 0.6 good project structure and coding style (indentation, use of final everywhere except when a variable has to be updated one or more times)
+- 0.5 testability in terms of program structure, argument passing, and result type
+- 1 required tests for negative, zero, and several positive arguments
+- 1 meaningful reflection (one or more sentences per item) in separate readme file
