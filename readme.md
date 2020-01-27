@@ -22,18 +22,18 @@ Input items (whole and/or floating point numbers) can be spread over one or more
 Implement your solution to the recurring rainfall problem as a working Java program using JUnit for testing.
 
 - Define separate classes for main (i/o), core logic, and testing.
-- Define a class called RainfallStats for representing the statistics given above as a single object.
-- In the core logic class, define a (static) method that takes a List (important: List, not just an ArrayList) and returns a RainfallStats instance.
-- In main, read the data into a list, initialized as an empty ArrayList, invoke the method for generating the stats, and print the resulting stats.
-- For testing, use Arrays.asList(x1, x2, ...) to programmatically create suitable sample test data, then use assertions (such as assertEquals) on the individual stats.
+- Define a class called `RainfallStats` for representing the statistics given above as a single object.
+- In the core logic class, define a (static) method that takes a `List` (important: `List`, not just an `ArrayList`) and returns a `RainfallStats` instance.
+- In main, read the data into a list, initialized as an empty `ArrayList`, invoke the method for generating the stats, and print the resulting stats.
+- For testing, use `Arrays.asList(x1, x2, ...)` to programmatically create suitable sample test data, then use assertions (such as `assertEquals`) on the individual stats.
 
 # Reflection
 
 - Why do we have to store the input items to provide the required functionality?
 - Why does the user no longer need to specify the item count up front?
-- What is the key capability of Java lists, such as ArrayList, that makes it a better choice for this solution than basic native arrays?
-- What is the purpose of the RainfallStats class in terms of helping with maintainability and testability?
-- Why does the core method need to take a List instead of just an ArrayList?
+- What is the key capability of Java lists, such as `ArrayList`, that makes it a better choice for this solution than basic native arrays?
+- What is the purpose of the `RainfallStats` class in terms of helping with maintainability and testability?
+- Why does the core method need to take a `List` instead of just an `ArrayList`?
 
 # Submission
 
