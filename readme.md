@@ -1,3 +1,5 @@
+# Loyola COMP 271 Lab 2 *(Spring 2020)*
+
 # Pair project
 
 # Functional requirements
