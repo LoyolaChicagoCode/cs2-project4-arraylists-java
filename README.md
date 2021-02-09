@@ -1,4 +1,6 @@
-# Pair project
+# Loyola COMP 271 Lab 3: array-based lists
+
+# Group activity
 
 # Functional requirements
 
