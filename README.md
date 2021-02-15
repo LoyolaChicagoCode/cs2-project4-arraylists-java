@@ -2,6 +2,8 @@
 
 ## Group activity
 
+Collaborate with your teammates but submit individually. Clearly list the members of your team.
+
 # Functional requirements
 
 Design and implement a program called RainfallV2 that reads a list of floating-point numbers from the standard input (console) representing daily rainfall amounts in millimeters as entered by a user. Ignore negative values, but include zero values. Produce the following statistics based on the non-negative values in the list up to end of file:
