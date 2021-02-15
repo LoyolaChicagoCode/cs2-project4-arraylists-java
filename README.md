@@ -55,3 +55,7 @@ Implement your solution to the recurring rainfall problem as a working Java prog
 - 0.5 testability in terms of program structure, argument passing, and result type
 - 1 required tests for negative, zero, and several positive arguments
 - 1 meaningful reflection (one or more sentences per item) in separate readme file
+
+# References
+
+- [cs2-tempaverage-java](https://github.com/LoyolaChicagoCode/cs2-tempaverage-java): sample project with List, ArrayList, and JUnit-based testing
