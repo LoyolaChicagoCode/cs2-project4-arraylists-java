@@ -29,7 +29,7 @@ Implement your solution to the recurring rainfall problem as a working Java prog
 - Define a class called `RainfallStats` for representing the statistics given above as a single object.
 - In the core logic class, define a (static) method that takes a `List` (important: `List`, not just an `ArrayList`) and returns a `RainfallStats` instance.
 - In main, read the data into a list, initialized as an empty `ArrayList`, invoke the method for generating the stats, and print the resulting stats.
-- For testing, use `Arrays.asList(x1, x2, ...)` to programmatically create suitable sample test data, then use assertions (such as `assertEquals`) on the individual stats.
+- For testing, use `List.of(x1, x2, ...)` to programmatically create suitable sample test data, then use assertions (such as `assertEquals`) on the individual stats.
 
 # Reflection
 
