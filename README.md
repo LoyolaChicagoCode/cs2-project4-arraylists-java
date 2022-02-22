@@ -45,7 +45,7 @@ Implement your solution to the recurring rainfall problem as a working Java prog
 - Include a project-specific readme file including your reflection and any other thoughts or design decisions. 
 - In IDEA, export your project as a zip file and attach here. 
 
-# Grading (total 3.5)
+# Grading (total 3.5 points)
 
 - 1 correct calculation of required stats for one or more input values, ignoring negative values
 - 0.2 empty output (rather than NaN or other error) for empty input
