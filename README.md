@@ -1,8 +1,8 @@
-# Loyola COMP 271 Lab 3: array-based lists
+# Loyola COMP 271 Project 4: array-based lists
 
 ## Group activity
 
-Collaborate with your teammates but submit individually. Clearly list the members of your team.
+In this activity, we will use resizable array-based lists (ArrayList).
 
 # Functional requirements
 
