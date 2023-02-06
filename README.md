@@ -52,4 +52,4 @@ Implement your solution to the recurring rainfall problem as a working Java prog
 
 # References
 
-- [cs2-tempaverage-java](https://github.com/LoyolaChicagoCode/cs2-tempaverage-java): sample project with List, ArrayList, and JUnit-based testing
+- [cs2-tempaverage-java](https://github.com/LoyolaChicagoCode/cs2-tempaverage-java): sample project with List, ArrayList, and automated unit testing
