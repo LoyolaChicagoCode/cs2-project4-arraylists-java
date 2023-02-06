@@ -39,22 +39,16 @@ Implement your solution to the recurring rainfall problem as a working Java prog
 - What is the purpose of the `RainfallStats` class in terms of helping with maintainability and testability?
 - Why does the core method need to take a `List` instead of just an `ArrayList`?
 
-# Submission
-
-- Make sure you have created a separate project for this activity. 
-- Include a project-specific readme file including your reflection and any other thoughts or design decisions. 
-- In IDEA, export your project as a zip file and attach here. 
-
-# Grading (total 3.5 points)
+# Grading (total 5 points)
 
 - 1 correct calculation of required stats for one or more input values, ignoring negative values
-- 0.2 empty output (rather than NaN or other error) for empty input
-- 0.2 detect EOF (rather than specific sentinel value) following Scanner-based idiom
-- 0.2 input can have zero or more double values on each line
-- 0.5 good project structure and coding style (indentation, use of final everywhere except when a variable has to be updated one or more times)
+- 0.3 empty output (rather than NaN or other error) for empty input
+- 0.3 detect EOF (rather than specific sentinel value) following Scanner-based idiom
+- 0.3 input can have zero or more double values on each line
+- 0.6 good project structure and coding style (indentation, use of final everywhere except when a variable has to be updated one or more times)
 - 0.5 testability in terms of program structure, argument passing, and result type
-- 0.4 required tests for negative, zero, and several positive arguments
-- 0.5 meaningful reflection (one or more sentences per item) in separate readme file
+- 1 required tests for negative, zero, and several positive arguments
+- 1 meaningful reflection (one or more sentences per item) in separate readme file
 
 # References
 
